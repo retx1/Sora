@@ -10,9 +10,9 @@
     "fullscreen"
   ],
   "description": "An app for watching movies, anime, reading manga and more",
-  "start_url": "https://sora-anime.vercel.app",
+  "start_url": "https://xnom.vercel.app",
   "dir": "ltr",
-  "scope": "https://sora-anime.vercel.app",
+  "scope": "https://xnom.vercel.app",
   "lang": "en",
   "orientation": "any",
   "categories": [
